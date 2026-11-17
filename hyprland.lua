@@ -10,8 +10,8 @@ hl.config({
       active_border = activeBorderColor,
       inactive_border = inactiveBorderColor,
     },
-    gaps_in = 2,
-    gaps_out = 2,
+    gaps_in = 4,
+    gaps_out = 6,
   },
   group = {
     col = {

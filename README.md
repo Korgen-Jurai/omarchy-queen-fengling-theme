@@ -1,6 +1,6 @@
 # Omarchy Queen Fengling Theme
 
-Queen Fengling is a dark palette sampled from the *Queen Fengling* painting: a deep slate background from the wet shore and her dress, a misty grey-blue from the storm sky, a soft gold accent from the sunlight breaking over the hills, and teal and rose from the seascape on her easel. Gaps and animations match the Kawabi Neon theme (`gaps_in = 2`, `gaps_out = 2`), with softer 8px corners (`rounding = 8`).
+Queen Fengling is a dark palette sampled from the *Queen Fengling* painting: a deep slate background from the wet shore and her dress, a misty grey-blue from the storm sky, a soft gold accent from the sunlight breaking over the hills, and teal and rose from the seascape on her easel. Animations match the Kawabi Neon theme, with slightly roomier gaps (`gaps_in = 4`, `gaps_out = 6`) and softer 8px corners (`rounding = 8`).
 
 ## Install
 
